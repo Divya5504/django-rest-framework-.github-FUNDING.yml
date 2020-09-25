@@ -1,0 +1,1 @@
+# django-rest-framework-.github-FUNDING.yml
